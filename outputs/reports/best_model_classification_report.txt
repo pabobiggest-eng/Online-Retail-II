@@ -1,0 +1,14 @@
+Best model: Logistic Regression
+Selection approach: cv_pr_auc_mean
+Split type: temporal
+Train customers: 3980
+Test customers: 997
+
+              precision    recall  f1-score   support
+
+           0       0.80      0.79      0.79       682
+           1       0.55      0.56      0.56       315
+
+    accuracy                           0.72       997
+   macro avg       0.67      0.67      0.67       997
+weighted avg       0.72      0.72      0.72       997

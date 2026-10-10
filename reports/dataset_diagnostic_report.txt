@@ -1,0 +1,26 @@
+ONLINE RETAIL II — DATASET DIAGNOSTIC REPORT
+==================================================
+
+Total rows: 525461
+Total columns: 8
+Columns: ['Invoice', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'Price', 'Customer ID', 'Country']
+Date range: 2009-12-01 07:45:00 to 2010-12-09 20:01:00
+Exact duplicates: 6865
+Rows involved in duplicates: 13283
+Missing Customer IDs: 107927
+Missing descriptions: 2928
+Unique customers: 4383
+Unique products: 4632
+Cancelled invoice rows: 10206
+Zero/negative quantities: 12326
+Zero/negative prices: 3690
+
+Missing values by column:
+Invoice             0
+StockCode           0
+Description      2928
+Quantity            0
+InvoiceDate         0
+Price               0
+Customer ID    107927
+Country             0
