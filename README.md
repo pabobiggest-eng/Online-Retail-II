@@ -37,3 +37,14 @@ The machine-learning target `repeat_purchase_next_90d` is designed to predict wh
 
 Repeat purchasing is an important indicator of customer retention. Historical transaction features can help identify customers who are more likely to purchase again. Businesses can use these findings to develop targeted retention strategies, but the underlying reasons for customer behaviour require further evidence and validation.
 
+
+
+<!-- CUSTOMER INSIGHTS START -->
+
+## Customer Repeat-Purchase Insights
+
+The group comparison and ranked behavioural differences are calculated from the processed customer dataset. Read `outputs/reports/customer_repeat_purchase_insights.md` for the results and business recommendations. The analysis reports associations rather than unsupported causal claims.
+
+- Group comparison: `outputs/reports/repeat_vs_nonrepeat_comparison.csv`
+- Ranked differences: `outputs/reports/repeat_purchase_pattern_ranking.csv`
+- Plot: `outputs/figures/repeat_vs_nonrepeat_patterns.png`

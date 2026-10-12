@@ -1,0 +1,7 @@
+metric,value
+Customers with at least 2 invoices,2557.0
+Customers who repeated at least one product,2204.0
+Customers with no product repeated across invoices,353.0
+Percent repeating at least one product,86.19
+Mean days between consecutive invoices,95.42
+Median days between consecutive invoices,41.0
